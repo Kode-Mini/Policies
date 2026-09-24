@@ -1,0 +1,53 @@
+# Kode.Mini AI Development Policy
+
+## AI-assisted development
+
+Kode.Mini allows the use of AI-assisted development tools.
+
+AI may be used for:
+
+* Code generation
+* Debugging
+* Documentation
+* Testing assistance
+* Learning
+* Brainstorming
+* Code explanation
+
+## Human responsibility
+
+AI-generated content must be reviewed by a human before being submitted.
+
+Contributors are responsible for:
+
+* Understanding their contribution.
+* Testing generated code.
+* Checking dependencies.
+* Checking licenses.
+* Checking for security problems.
+* Removing secrets and private information.
+
+## Security
+
+Do not provide AI systems with:
+
+* Passwords
+* API keys
+* Authentication tokens
+* Private keys
+* Confidential information
+* Personal information that should not be shared
+
+## Copyright and licensing
+
+Contributors should check the applicable licenses and project requirements before submitting AI-assisted material.
+
+Using AI does not remove the contributor's responsibility for complying with applicable licenses.
+
+## Malicious code
+
+AI must not be used to intentionally introduce malicious code, unauthorized access, malware, credential theft, or other harmful functionality into Kode.Mini projects.
+
+## Disclosure
+
+For significant AI-generated contributions, maintainers may request that contributors explain how AI was used and how the resulting code was reviewed.
