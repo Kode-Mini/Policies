@@ -1,0 +1,50 @@
+# Kode.Mini Governance
+
+## Purpose
+
+This document describes how Kode.Mini projects are maintained.
+
+## Maintainers
+
+Maintainers are responsible for:
+
+* Reviewing contributions.
+* Maintaining project quality.
+* Managing releases.
+* Addressing Issues.
+* Responding to security reports.
+* Protecting project infrastructure.
+
+## Contributors
+
+Contributors may:
+
+* Report bugs.
+* Request features.
+* Submit Pull Requests.
+* Improve documentation.
+* Help test projects.
+
+Contributors do not automatically receive administrative access.
+
+## Repository permissions
+
+Access should follow the principle of least privilege.
+
+Typical roles are:
+
+* Owner — organization administration
+* Maintainer — project maintenance
+* Developer — code contributions
+* Triage — Issues and Pull Requests
+* Read — viewing the project
+
+## Decisions
+
+Technical decisions should normally be discussed through Issues, Pull Requests, or project discussions.
+
+Security-sensitive decisions may be handled privately.
+
+## Changes to governance
+
+The maintainers may update this document as Kode.Mini grows.
