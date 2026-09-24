@@ -1,0 +1,32 @@
+# Pull Request
+
+## What changed?
+
+Describe the changes made in this Pull Request.
+
+## Why?
+
+Explain the reason for the change.
+
+## Testing
+
+Describe how you tested the changes.
+
+* [ ] Tested locally
+* [ ] Existing tests pass
+* [ ] Added tests where appropriate
+* [ ] Documentation updated if needed
+
+## Security
+
+* [ ] No passwords or API keys were added.
+* [ ] No private information was added.
+* [ ] I reviewed the security impact of my changes.
+
+## AI assistance
+
+* [ ] I reviewed any AI-assisted code before submitting it.
+
+## Additional information
+
+Add any other information that reviewers should know.
