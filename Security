@@ -1,0 +1,46 @@
+# Kode.Mini Security Policy
+
+## Reporting a security vulnerability
+
+Please do not publicly disclose a security vulnerability before the maintainers have had an opportunity to investigate it.
+
+Use GitHub's private vulnerability reporting feature when it is enabled for the repository.
+
+If private reporting is unavailable, contact the project maintainer through an appropriate private channel.
+
+## Do not include secrets
+
+Never publish:
+
+* Passwords
+* API keys
+* Access tokens
+* Private SSH keys
+* Database credentials
+* Private personal information
+* Other authentication credentials
+
+If you accidentally commit a secret, revoke or rotate it immediately.
+
+## Responsible testing
+
+Do not attempt unauthorized access to Kode.Mini accounts, repositories, servers, APIs, devices, or infrastructure.
+
+Security research should be performed only where you have permission.
+
+## Vulnerability reports
+
+Useful reports should include:
+
+* Description of the vulnerability
+* Affected repository/version
+* Steps to reproduce
+* Potential impact
+* Relevant logs or screenshots
+* Suggested fix, if available
+
+## Security updates
+
+When appropriate, maintainers may publish security advisories, patches, or updated releases.
+
+Thank you for helping keep Kode.Mini projects secure.
