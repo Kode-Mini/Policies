@@ -1,0 +1,71 @@
+# Contributing to Kode.Mini
+
+Thank you for contributing to Kode.Mini.
+
+## Before contributing
+
+Please:
+
+1. Read the repository README.
+2. Check existing Issues and Pull Requests.
+3. Avoid creating duplicate Issues.
+4. Make sure your contribution follows the project's license.
+5. Test your changes before submitting them.
+
+## Bug reports
+
+For bugs, use the Bug Report template when available.
+
+Include:
+
+* What happened
+* What you expected
+* Steps to reproduce
+* Hardware/software version
+* Error messages
+* Screenshots or logs when useful
+
+## Feature requests
+
+For new features, explain:
+
+* What you want to add
+* Why it would be useful
+* How you think it could work
+* Any alternatives you considered
+
+## Pull Requests
+
+Pull Requests should:
+
+* Have a clear title.
+* Explain what changed.
+* Explain why the change was made.
+* Keep unrelated changes out of the PR.
+* Include tests when appropriate.
+* Avoid committing secrets or private information.
+
+## Code quality
+
+Contributors should try to keep code:
+
+* Readable
+* Maintainable
+* Documented where necessary
+* Tested before submission
+
+## AI-assisted development
+
+AI-assisted coding is allowed.
+
+However, contributors are responsible for reviewing, understanding, testing, and legally checking code before submitting it.
+
+Do not submit passwords, API keys, private information, or confidential material to AI systems.
+
+## Review
+
+Maintainers may request changes before accepting a Pull Request.
+
+A Pull Request may be rejected if it introduces security problems, malicious behavior, licensing problems, or substantial unnecessary changes.
+
+Thank you for helping Kode.Mini grow.
